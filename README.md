@@ -25,6 +25,7 @@ After a customer makes a purchase from Olist Store, a seller is notified to fulf
 ## Data Schema
 
 The data is divided into multiple datasets to facilitate understanding and organization. Please refer to the following data schema when working with it:
+![image](https://github.com/MMuttalib1326/Predictive_Analysis_Challenge/blob/main/Data%20Schema.png)
  
 
 ## Classified Dataset
