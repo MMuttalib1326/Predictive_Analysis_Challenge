@@ -8,7 +8,7 @@ This is genuine commercial data that has been anonymized. References to companie
 
 ## Join it With the Marketing Funnel by Olist
 
-We've also released a Marketing Funnel Dataset that can be combined with this dataset to view orders from a marketing perspective. Instructions for joining the datasets are available [here](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
+Also released a Marketing Funnel Dataset that can be combined with this dataset to view orders from a marketing perspective. Instructions for joining the datasets are available [here](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
 
 ## Context
 
