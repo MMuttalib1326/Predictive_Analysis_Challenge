@@ -28,10 +28,6 @@ The data is divided into multiple datasets to facilitate understanding and organ
 ![image](https://github.com/MMuttalib1326/Predictive_Analysis_Challenge/blob/main/Data%20Schema.png)
  
 
-## Classified Dataset
-
-We had previously released a classified dataset, but it was removed in Version 6. We intend to release it again with a new dataset and data schema. In the meantime, you can use the classified dataset available in Version 5 or earlier.
-
 ## Inspiration
 
 Here are some ideas for potential outcomes using this dataset:
