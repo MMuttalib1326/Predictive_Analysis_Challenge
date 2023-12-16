@@ -1,4 +1,5 @@
 # Predictive_Analysis_Challenge
+
 # Brazilian E-Commerce Public Dataset by Olist
 
 Welcome to the Brazilian E-Commerce Public Dataset by Olist! This dataset contains information on 100k orders made at Olist Store between 2016 and 2018. These orders were placed on various marketplaces in Brazil. The dataset provides a comprehensive view of each order, covering order status, price, payment, freight performance, customer location, product attributes, and customer reviews.
